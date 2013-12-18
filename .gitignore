@@ -1,1 +1,88 @@
-git remote add origin ssh://git@bitbucket.org/crempp/paisg-server.git
+# Project ignores
+
+#====Unity Files====
+*.sln
+*.userprefs
+*.csproj
+*.pidb
+*.unityproj
+.DS_Store
+/Library/FailedAssetImports.txt
+/Library/cache/
+/Library/previews/
+/Library/ScriptAssemblies
+/obj
+/Temp
+
+
+#====Gross Unix Files====
+*~
+\#*\#
+.\#*
+
+#====Gross OSX files====
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+#====Gross Windows files====
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+#====InteliJ====
+*.iml
+*.ipr
+*.iws
+.idea/
+
+#====Netbeans====
+nbproject/
+
+#====SublimeText====
+*.sublime-workspace
+
+#====TextMate====
+*.tmproj
+*.tmproject
+tmtags
+
+#====Vim====
+*.un~
+Session.vim
+.netrwhist
+*~
+
+#====CVS====
+/CVS/*
+*/CVS/*
+.cvsignore
+*/.cvsignore
+
+#====Mercurial====
+/.hg/*
+*/.hg/*
+.hgignore
+
+#====SVN====
+.svn/
+
+#====SASS====
+*.sass-cache
+
+#====Nodejs====
+node_modules/
