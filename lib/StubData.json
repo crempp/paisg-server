@@ -6,7 +6,8 @@
                 {
                     "name"     : "drone-1",
                     "type"     : "drone",
-                    "position" : {"x": 0, "y": 0, "z": 0},
+                    "module"   : "e144e80279de530b994e4f60d5b4aff8",
+                    "thrust"   : {"x": 0, "y": 0, "z": 0},
                     "heading"  : {"y": 0, "p": 0, "r": 0}
                 }
             ]
@@ -17,7 +18,8 @@
                 {
                     "name"     : "drone-2",
                     "type"     : "drone",
-                    "position" : {"x": 20, "y": 20, "z": 20},
+                    "module"   : "5daf68b513be84e76fb9bad237d9c8af",
+                    "thrust"   : {"x": 20, "y": 20, "z": 20},
                     "heading"  : {"y": 0, "p": 0, "r": 0}
                 }
             ]

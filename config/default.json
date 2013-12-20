@@ -1,5 +1,15 @@
 {
     "server" : {
+        "allowHalfOpen" : false,
+        "host" : null,
         "port" : 25989
+    },
+
+    "compute" : {
+        "cps" : 10
+    },
+
+    "subroutines" : {
+        "testDir" : "./test-subroutines"
     }
 }
