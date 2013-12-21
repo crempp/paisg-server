@@ -6,7 +6,9 @@
     },
 
     "compute" : {
-        "cps" : 10
+        "cspath" : "./lib/compute-server.js",
+        "cps" : 10,
+        "monitorint" : 1000
     },
 
     "subroutines" : {
