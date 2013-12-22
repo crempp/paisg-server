@@ -7,7 +7,7 @@
 
     "compute" : {
         "cspath" : "./lib/compute-server.js",
-        "cps" : 10,
+        "cps" : 5,
         "monitorint" : 1000
     },
 

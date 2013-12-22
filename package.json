@@ -30,12 +30,11 @@
         "server"
     ],
     "dependencies" : {
-        "futures"  : ">=2.1.0",
-        "sequence" : ">=2.2.1",
+        "futures"      : ">=2.1.0",
+        "sequence"     : ">=2.2.1",
         "forEachAsync" : ">=3.0.0-rc1",
-        "cluster-master" : ">=0.2.0",
-        "config"   : ">=0.4.33",
-        "colors"   : ">=0.6.2"
+        "config"       : ">=0.4.33",
+        "blessed"      : ">=0.0.25"
     },
     "analyze": false,
     "devDependencies": {
