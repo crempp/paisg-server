@@ -6,9 +6,10 @@
     },
 
     "compute" : {
-        "cspath" : "./lib/compute-server.js",
-        "cps" : 10,
-        "monitorint" : 1000
+        "cspath"       : "./lib/compute-server.js",
+        "numnodes"     : 2,
+        "cyclespersec" : 10,
+        "monitorint"   : 1000
     },
 
     "subroutines" : {
