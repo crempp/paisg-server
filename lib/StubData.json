@@ -1,6 +1,7 @@
 {
     "players": [
         {
+            "id"  : 1,
             "name": "chad",
             "units": [
                 {
@@ -20,6 +21,7 @@
             ]
         },
         {
+            "id"  : 2,
             "name": "seth",
             "units": [
                 {
