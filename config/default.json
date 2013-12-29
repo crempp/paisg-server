@@ -1,14 +1,15 @@
 {
     "server" : {
-        "allowHalfOpen" : false,
-        "host" : null,
-        "port" : 25989
+        "allowHalfOpen"       : false,
+        "host"                : null,
+        "port"                : 25989,
+        "stateUpdateInterval" : 200
     },
 
     "compute" : {
         "cspath"       : "./lib/compute-server.js",
-        "numnodes"     : 2,
-        "cyclespersec" : 10,
+        "numnodes"     : 1,
+        "cyclespersec" : 2,
         "monitorint"   : 1000
     },
 
