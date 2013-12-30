@@ -1,4 +1,12 @@
 {
+    "systems" : [
+        {
+            "id" : 1,
+            "name" : "tatooine",
+            "type" : "G",
+            "position" : {"x": 0, "y": 0}
+        }
+    ],
     "players": [
         {
             "id"  : 1,
