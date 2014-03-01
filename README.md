@@ -104,13 +104,13 @@ API
 This server command pushes game state data to the client. Currently (<v0.5) the entire state object is pushed to every client. This will need to change.
 ```json
 {
-   "systems" : [
+   "galaxy" : [
        {
             "id" : 1,
             "name" : "tatooine",
             "type" : 
             "position" : {"x": 0, "y": 0},
-            
+            "planet"
        }
    ],
    "players": [

@@ -1,10 +1,19 @@
 {
-    "systems" : [
+    "galaxy" : [
         {
             "id" : 1,
-            "name" : "tatooine",
+            "name" : "Tatoo",
             "type" : "G",
-            "position" : {"x": 0, "y": 0}
+            "position" : {"x": 0, "y": 0},
+            "planets"  : [
+                {
+                    "id" : 1,
+                    "name" : "Tatooine",
+                    "type" : "H",
+                    "radius" : 8.3,
+                    "angle" : 0
+                }
+            ]
         }
     ],
     "players": [
@@ -23,7 +32,7 @@
                     "torque"   : 0,
 
                     "heading"  : 0,
-                    "position" : {"x": 0, "y": 0},
+                    "position" : {"x": 4.7, "y": -227.5},
                     "velocity" : {"x": 0, "y": 0}
                 }
             ]
@@ -43,7 +52,7 @@
                     "torque"   : 0,
 
                     "heading"  : 0,
-                    "position" : {"x": 0, "y": 0},
+                    "position" : {"x": -227.5, "y": 5},
                     "velocity" : {"x": 0, "y": 0}
                 }
             ]
