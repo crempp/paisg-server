@@ -1,0 +1,14 @@
+{
+  "name": "pasig-tests",
+  "version": "0.0.1",
+  "description": "PAISG Tests",
+  "main": "",
+  "scripts": {
+    "test": "helloWorld"
+  },
+  "author": "Chad Rempp",
+  "license": "TBD",
+  "devDependencies": {
+    "gm": "~1.13.3"
+  }
+}

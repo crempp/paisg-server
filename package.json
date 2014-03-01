@@ -30,6 +30,7 @@
         "server"
     ],
     "dependencies" : {
+        "jsclass"        : ">=4.0.4",
         "futures"        : ">=2.1.0",
         "sequence"       : ">=2.2.1",
         "forEachAsync"   : ">=3.0.0-rc1",
